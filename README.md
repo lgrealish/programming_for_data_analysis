@@ -1,7 +1,7 @@
  # *Programming for Data Analysis Assignment 1
 
 
-# This repository contains my submission for the Programming for Data Analysis Module 2019 Project for the Programming for Data Analysis module at GMIT as part of the Higher Diploma in Computing and Data Analytics.
+This repository contains my submission for the Programming for Data Analysis Module 2023 module at ATU as part of the Higher Diploma in Computing and Data Analytics.
 
 ## *Problem statement:
 
