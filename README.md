@@ -1,9 +1,9 @@
- # *Programming for Data Analysis Assignment 1
+ # Programming for Data Analysis Assignment 1
 
 
 This repository contains my submission for the Programming for Data Analysis Module 2023 module at ATU as part of the Higher Diploma in Computing and Data Analytics.
 
-## *Problem statement:
+## Problem statement:
 
 For this project you must create a data set by simulating a real-world phenomenon of your choosing. You may pick any phenomenon you wish – you might pick one that is of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python. We suggest you use the numpy.random package for this purpose.
 
@@ -16,7 +16,7 @@ Specifically, in this project you should:
 Note that this project is about simulation – you must synthesise a data set. Some students may already have some real-world data sets in their own files. It is okay to base your synthesised data set on these should you wish (please reference it if you do), but the main task in this project is to create a synthesised data set. The next section gives an example project idea.
 
 
-## *Dataset chosen
+## Dataset chosen
 
 I have chosen to base my synthesised dataset on an existing dataset and will use it to investigate the probability of each passenger's survival chances based on the variables listed.
 
@@ -34,7 +34,7 @@ The titanic.csv file contains data for 891 of the real Titanic passengers. Each 
 
 
 
-# *References/Research
+# References/Research
 
 https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218
 
