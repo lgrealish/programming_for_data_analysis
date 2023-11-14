@@ -1,9 +1,9 @@
- # *Programming for Data Analysis Assignment 1
+ # Programming for Data Analysis Assignment 1
 
 
 This repository contains my submission for the Programming for Data Analysis Module 2023 module at ATU as part of the Higher Diploma in Computing and Data Analytics.
 
-## *Problem statement:
+## Problem statement:
 
 For this project you must create a data set by simulating a real-world phenomenon of your choosing. You may pick any phenomenon you wish – you might pick one that is of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python. We suggest you use the numpy.random package for this purpose.
 
@@ -43,3 +43,5 @@ https://www.kdnuggets.com/2022/03/generate-tabular-synthetic-dataset.html
 https://data.world/nrippner/titanic-disaster-dataset
 
 https://ema.drwhy.ai/dataSetsIntro.html
+
+https://stackoverflow.com/questions/73094559/how-to-fill-a-pandas-dataframe-column-with-one-of-two-list-values
