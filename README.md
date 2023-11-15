@@ -13,12 +13,12 @@ Specifically, in this project you should:
 - Synthesise/simulate a data set as closely matching their properties as possible.
 - Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.
 
-Note that this project is about simulation – you must synthesise a data set. Some students may already have some real-world data sets in their own files. It is okay to base your synthesised data set on these should you wish (please reference it if you do), but the main task in this project is to create a synthesised data set. The next section gives an example project idea.
+Note that this project is about simulation – you must synthesise a data set. Some students may already have some real-world data sets in their own files. It is okay to base your synthesised data set on these should you wish (please reference it if you do), but the main task in this project is to create a synthesised data set. 
 
 
 ## Dataset chosen
 
-I have chosen to base my synthesised dataset on an existing dataset and will use it to investigate the probability of each passenger's survival chances based on the variables listed.
+I have chosen to base my synthesised dataset on an existing dataset, the Titanic dataset.
 
 On April 15, 1912, the largest passenger liner ever made collided with an iceberg during her maiden voyage. When the Titanic sank it killed 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships. One of the reasons that the shipwreck resulted in such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others.
 
@@ -45,3 +45,5 @@ https://data.world/nrippner/titanic-disaster-dataset
 https://ema.drwhy.ai/dataSetsIntro.html
 
 https://stackoverflow.com/questions/73094559/how-to-fill-a-pandas-dataframe-column-with-one-of-two-list-values
+
+https://rpubs.com/kar_ng/827540
