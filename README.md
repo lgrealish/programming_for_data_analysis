@@ -52,3 +52,8 @@ https://rpubs.com/kar_ng/827540
 https://numpy.org/doc/stable/reference/random/legacy.html#distributions
 
 https://stackoverflow.com/questions/71948991/how-to-create-synthetic-data-based-on-dataset-with-mixed-data-types-for-classifi
+
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+https://makeschool.org/mediabook/oa/tutorials/titanic-dataset-tutorial-an-intro-to-data-analysis-and-statistics-n40/pdfs-and-cdfs/
+
