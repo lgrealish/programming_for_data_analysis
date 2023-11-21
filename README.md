@@ -57,3 +57,5 @@ https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
 
 https://makeschool.org/mediabook/oa/tutorials/titanic-dataset-tutorial-an-intro-to-data-analysis-and-statistics-n40/pdfs-and-cdfs/
 
+https://dev.to/pavanbelagatti/data-analysis-of-the-titanic-with-python-koj
+
