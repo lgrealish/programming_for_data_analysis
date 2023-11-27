@@ -72,4 +72,7 @@ https://dev.to/pavanbelagatti/data-analysis-of-the-titanic-with-python-koj
 
 https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
 
+https://www.digitalocean.com/community/tutorials/pandas-dropna-drop-null-na-values-from-dataframe
+
+
 
