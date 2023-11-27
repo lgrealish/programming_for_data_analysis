@@ -34,6 +34,17 @@ The titanic.csv file contains data for 891 of the real Titanic passengers. Each 
 - fare paid.
 
 
+# Dependencies
+* [NumPy](http://www.numpy.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [Matplotlib](http://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/index.html#)
+* [SciKit-Learn](http://scikit-learn.org/stable/)
+* [SciPy](http://www.scipy.org/)
+* [StatsModels](http://statsmodels.sourceforge.net/)
+* [Patsy](http://patsy.readthedocs.org/en/latest/)
+
+
 
 # References/Research
 
