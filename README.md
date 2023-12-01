@@ -39,10 +39,7 @@ The titanic.csv file contains data for 891 of the real Titanic passengers. Each 
 * [Pandas](http://pandas.pydata.org/)
 * [Matplotlib](http://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/index.html#)
-* [SciKit-Learn](http://scikit-learn.org/stable/)
-* [SciPy](http://www.scipy.org/)
-* [StatsModels](http://statsmodels.sourceforge.net/)
-* [Patsy](http://patsy.readthedocs.org/en/latest/)
+
 
 
 
@@ -73,6 +70,10 @@ https://dev.to/pavanbelagatti/data-analysis-of-the-titanic-with-python-koj
 https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
 
 https://www.digitalocean.com/community/tutorials/pandas-dropna-drop-null-na-values-from-dataframe
+
+https://realpython.com/numpy-random-normal/#specify-the-mean-and-standard-deviation
+
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.lognormal.html
 
 
 
