@@ -33,8 +33,17 @@ The titanic.csv file contains data for 891 of the real Titanic passengers. Each 
 - siblings/spouse onboard
 - fare paid.
 
+## How to download this repository
 
-# Dependencies
+This repository and all files within it can be access at https://github.com/lgrealish/programming_for_data_analysis.git 
+
+## Technologies
+
+  * Visual Studio Code - version 1.84.2
+  * Python
+
+
+## Dependencies
 * [NumPy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
 * [Matplotlib](http://matplotlib.org/)
@@ -42,8 +51,7 @@ The titanic.csv file contains data for 891 of the real Titanic passengers. Each 
 
 
 
-
-# References/Research
+## References/Research
 
 https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218
 
